@@ -19,7 +19,7 @@ The goal was to design an **interactive Excel dashboard** to provide clear visib
 - Enabled faster business insights and decision-making.
 
 ## Screenshots
-![Dashboard Screenshot] outputs/dash.jpg
+![Dashboard Screenshot](outputs/dash.jpg)
 ## Repository Structure
 excel-dashboard-kpis/
 ┣ data/ # sample dataset
